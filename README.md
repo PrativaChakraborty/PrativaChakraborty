@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Prativa</h1>
-<h4 align="center">I'm a flutter developer and a coding enthusiast, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">I'm a flutter developer and a coding enthusiast, see my <a href="https://github.com/PrativaChakraborty/PrativaChakraborty/blob/main/Resume.pdf">resume</a> for more</h4>
   <img align="center"
          src="https://profile-counter.glitch.me/PrativaChakraborty/count.svg"
          alt="Visitor" height="30"/>
