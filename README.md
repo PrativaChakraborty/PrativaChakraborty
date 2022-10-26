@@ -8,9 +8,44 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Prativa</h1>
-<h4 align="center">a developer an also a student at Vellore Institute of Technology, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">I'm a flutter developer and a coding enthusiast, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+  <img align="center"
+         src="https://profile-counter.glitch.me/PrativaChakraborty/count.svg"
+         alt="Visitor" height="30"/>
 </div>
+<br>
+         
+[![@prativa2000's Holopin board](https://holopin.me/prativa2000)](https://holopin.io/@prativa2000)
 
+<div>
+   <h2 align="center"> Github stats </h2>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/PrativaChakraborty/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrativaChakraborty&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="PrativaChakraborty :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/PrativaChakraborty/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrativaChakraborty&theme=gruvbox&layout=compact&hide_border=true"
+          alt="PrativaChakraborty :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrativaChakraborty&theme=gruvbox&layout=compact&hide_border=true"
+          alt="PrativaChakraborty :: Top Langs by commit" />
+          </a>
+        </p>
+</details>
+    <details open>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/PrativaChakraborty/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PrativaChakraborty&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrativaChakraborty&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+</div>
 <div align="center">
   <a href="">
   <img  src="https://github.com/PrativaChakraborty/PrativaChakraborty/blob/output/github-contribution-grid-snake.svg"
@@ -22,7 +57,7 @@ You can click the Preview link to take a look at your changes.
   <summary>☎️ contact me</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">Get in touch</h2>
     <p align="center">
       <br/>
       <a href="www.linkedin.com/in/prativa-chakraborty" target="blank"><img align="center"
@@ -33,17 +68,12 @@ You can click the Preview link to take a look at your changes.
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
+      <a href="https://instagram.com/implusivibe" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
+     
+ 
+    
   </samp>
 </div>
 </details>
@@ -52,7 +82,7 @@ You can click the Preview link to take a look at your changes.
   <summary>🧮 about</summary>
 <div>
 <samp>
-<h2 align="center">About this Account</h2>
+<h2 align="center">About my account</h2>
  <p align="center">
   <a href="github.com/PrativaChakraborty" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=PrativaChakraborty&style=for-the-badge&label=PROFILE+VIEWS" height="25"
@@ -81,40 +111,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 </details>
   
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/PrativaChakraborty/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrativaChakraborty&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="PrativaChakraborty :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/PrativaChakraborty/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrativaChakraborty&theme=gruvbox&layout=compact&hide_border=true"
-          alt="PrativaChakraborty :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrativaChakraborty&theme=gruvbox&layout=compact&hide_border=true"
-          alt="PrativaChakraborty :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/PrativaChakraborty/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PrativaChakraborty&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrativaChakraborty&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+
 
 <details>
   <summary>📈 Latest Activity Graph</summary>
