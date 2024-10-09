@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Prativa</h1>
-<h4 align="center">I'm a flutter developer and a coding enthusiast, see my 
+<h4 align="center">I'm a Data Engineer and a coding enthusiast, see my 
   <a href="http://surl.li/gbazu">resume</a> for more</h4>
   
 </div>
@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
       <a href="www.linkedin.com/in/prativa-chakraborty" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mailto:2000prativa@gmail.com" target="blank"><img align="center"
+      <a href="mailto:prativa.work23@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
